@@ -13,7 +13,7 @@ Steps:
 
 3. In your fork, Add a line to the Readme that says "Includes <insertnamehere>'s text file"
 
-4. Add the WashU Test Project as an Upstream as well as a Remote to keep work in sync (hint: when you clone the project down to your workspace from Github...what happens?)
+4. Add the WashU Test Project as an Upstream to keep work in sync (hint: when you clone the project down to your workspace from Github...what happens?)
 
 5. Once you have made the edits from Step 3 above, make a pull request to WashU_Test Project that asks for your work to be added
 
