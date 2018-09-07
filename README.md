@@ -6,13 +6,14 @@ This will incorporate a lot of the skills we have learned and will also require 
 
 Steps: 
 
+Include Ian's text file (gis310sp14im)
 
 1. Find a Teammate to work with. 
 
 2. Fork the WashU Test Project. 
 
 3. In your fork:
-      - Checkout a branch to make edits/do work (remember to never edits/changes in master)
+      - Checkout a branch to make edits/do work (remember to never edit/make changes in your fork's master)
       - Add a line to the Readme that says "Includes <insertnamehere>'s text file"
       - Create the text file in your fork
 
@@ -25,3 +26,4 @@ Steps:
 6. Keep your work on your local machine and on your fork in sync with the WashU Test Project 
 
 Includes  DSFile
+Includes CT's Text File
