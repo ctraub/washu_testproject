@@ -27,6 +27,6 @@ Include Ian's text file (gis310sp14im)
 
 7. Includes a Text File
 
-Making a change for Excercise
+Making a change for Exercise
 Includes  DSFile
 Includes CT's Text File
