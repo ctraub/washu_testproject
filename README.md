@@ -12,7 +12,7 @@ Steps:
 2. Fork the WashU Test Project. 
 
 3. In your fork:
-      - Checkout a branch to make edits/do work (remember to never edits/changes in master)
+      - Checkout a branch to make edits/do work (remember to never edit/make changes in your fork's master)
       - Add a line to the Readme that says "Includes <insertnamehere>'s text file"
       - Create the text file in your fork
 
