@@ -1,0 +1,6 @@
+Link to share with s4h students:
+https://www.brainpickings.org/2012/07/27/the-usefulness-of-useless-knowledge/
+
+
+lightweight alternative to mikTeX or MacTeX for those without a LaTeX distribution
+https://yihui.name/tinytex/

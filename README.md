@@ -24,3 +24,6 @@ Include Ian's text file (gis310sp14im)
 5. Once you have made the edits and they are on your Fork on Github, make a pull request to WashU_Test Project that asks for your work to be added
 
 6. Keep your work on your local machine and on your fork in sync with the WashU Test Project 
+
+
+Includes CT's Text File
