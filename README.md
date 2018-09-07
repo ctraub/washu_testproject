@@ -6,6 +6,7 @@ This will incorporate a lot of the skills we have learned and will also require 
 
 Steps: 
 
+Include Ian's text file (gis310sp14im)
 
 1. Find a Teammate to work with. 
 
