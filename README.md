@@ -25,7 +25,8 @@ Include Ian's text file (gis310sp14im)
 
 6. Keep your work on your local machine and on your fork in sync with the WashU Test Project 
 
-7. Includes a Text Filw
-Making a change for Execersise
+7. Includes a Text File
 
-
+Making a change for Excercise
+Includes  DSFile
+Includes CT's Text File
