@@ -23,3 +23,7 @@ Steps:
 5. Once you have made the edits and they are on your Fork on Github, make a pull request to WashU_Test Project that asks for your work to be added
 
 6. Keep your work on your local machine and on your fork in sync with the WashU Test Project 
+
+7. Includes a Text Filw
+Making a change for Execersise
+change proper place
