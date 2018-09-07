@@ -14,7 +14,7 @@ Steps:
 3. In your fork:
       - Checkout a branch to make edits/do work (remember to never edits/changes in master)
       - Add a line to the Readme that says "Includes <insertnamehere>'s text file"
-      - Create the <insertnamehere>.txt file in your fork
+      - Create the text file in your fork
 
 4. Add the WashU Test Project as an Upstream to keep work in sync. Also, make sure your fork is the remote (hint: when you clone the project down to your workspace from Github...what happens?).
 
