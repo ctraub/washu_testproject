@@ -25,5 +25,5 @@ Include Ian's text file (gis310sp14im)
 
 6. Keep your work on your local machine and on your fork in sync with the WashU Test Project 
 
-
+Includes  DSFile
 Includes CT's Text File
